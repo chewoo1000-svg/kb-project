@@ -1,0 +1,6 @@
+# 노트북은 1인 1파일 원칙. 충돌 시 내 버전 유지 (diff는 사람이 직접 확인)
+*.ipynb merge=ours
+*.csv text eol=lf
+*.sql text eol=lf
+*.py  text eol=lf
+*.md  text eol=lf

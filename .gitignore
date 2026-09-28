@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+data/*.db
+outputs/validation_report.md
+.DS_Store
+Thumbs.db

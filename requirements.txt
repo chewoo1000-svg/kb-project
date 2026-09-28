@@ -1,0 +1,10 @@
+pandas>=2.0
+numpy
+jupyter
+matplotlib
+requests
+pytest
+# 선택 (API/화면)
+fastapi
+uvicorn
+streamlit
